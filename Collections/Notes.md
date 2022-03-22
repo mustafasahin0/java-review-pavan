@@ -46,4 +46,17 @@ ArrayList: Same as above.
 - 10 is default location allocated.
 - Growable in nature
 
-`ArrayList<String> al = new ArrayList<>()`
+`ArrayList<String> al = new ArrayList<>()
+
+**Linked List**
+
+
+List(I) ---> LinkedList(C) <---- Deque (I) <------ Queue(I
+
+If we have retriving ve can prefer ArrayList
+If we have insertion and deleten we can go for LinkedList
+
+Arralist store elements in consecutive order
+
+LinkedList consists of nodes
+
